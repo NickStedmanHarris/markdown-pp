@@ -1,6 +1,7 @@
 # TODO:
 
 - [ ] Handle project directory nicely
+  - [ ] add --stdout flag, default behaviour should
 - [ ] Add debug, info and error level logging to entire project. 
   - [ ] Add argparse command option to enable / disable
 - [ ] Add argparse for all added options:
